@@ -9,9 +9,9 @@ At first, for launching the project it is needed to run the postgres container.
 <br>
 Then file "appsettings.json" have to be changed for own connection string configurations.
 <br>
-If it is necessary add migrations by entering command "add-migration migration_name".
+If it is necessary add migrations by entering command "add-migration migration_name" on the Package Manager Console on VS.
 <br>
-Next step - open Package Manager Console on VS and enter command "update-database".
+Next step - enter command "update-database".
 <br>
 So, the database will be created.
 <br>
